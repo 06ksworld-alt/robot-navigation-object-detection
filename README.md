@@ -1,5 +1,4 @@
 # Object Detection + Distance Estimation for Robotics Navigation
-Assignment Submission – Khushi Saraswat
 
 ## Project Overview
 This project detects navigation objects such as cones, barriers,
